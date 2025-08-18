@@ -20,7 +20,7 @@ _Learn why conflicts happen and how to resolve them.
 
 ## Step 2: Resolve a merge conflict
 
-_Good start! Now let's look deeper at a merge conflict! :mag:_
+_Good start! Now let's look deeper at a merge conflict! :mag:
 
 This can be intimidating, but have no fear, Git is smart when it comes to merging! Git only needs a human to decide how to [resolve the conflict](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line). Sometimes, the best way to resolve a merge conflict is to add content that's from both branches, or even something that isn't on either! This is why Git needs a human to look at the code and make the proper fixes.
 
