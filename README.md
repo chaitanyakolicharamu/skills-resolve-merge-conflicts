@@ -12,7 +12,7 @@
 _Learn why conflicts happen and how to resolve them.
 </header>
 
-<
+<ccc
 -
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
