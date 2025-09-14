@@ -12,8 +12,7 @@
 _Learn why conflicts happen and how to resolve them.
 </header>
 
-< jj
-
+< j
 -
   <<< Author notes: Step 2 >
   Start this step by acknowledging the previous step.
