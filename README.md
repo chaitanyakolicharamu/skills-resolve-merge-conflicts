@@ -14,7 +14,7 @@ _Learn why conflicts happen and how to resolve them.
 
 < 
 -
-  <<< Author notes: Step 2 >mbjb
+  <<< Author notes: Step 2 >mbj
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
