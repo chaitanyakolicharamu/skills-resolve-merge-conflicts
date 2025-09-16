@@ -41,7 +41,7 @@ This can be intimidating, but have no fear, Git is smart when it comes to mergin
 1. Finally, click **Commit merge**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
-<footer>  z
+<footer>  
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
