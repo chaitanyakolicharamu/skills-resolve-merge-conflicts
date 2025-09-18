@@ -11,7 +11,7 @@
 
 _Learn why conflicts happen and how to resolve them.
 </header>
- XC X
+ XC 
 < 
 -
   <<< Author notes: Step 2 >
