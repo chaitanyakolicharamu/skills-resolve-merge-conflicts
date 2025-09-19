@@ -8,7 +8,7 @@
 -->
 
 # Resolve merge conflicts
-ddd
+dd
 _Learn why conflicts happen and how to resolve them.
 </header>
  
