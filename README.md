@@ -8,7 +8,7 @@
 -->
 
 # Resolve merge conflicts
-dddb
+ddd
 _Learn why conflicts happen and how to resolve them.
 </header>
  
