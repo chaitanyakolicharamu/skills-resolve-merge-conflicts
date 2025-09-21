@@ -9,7 +9,7 @@
 
 
 # Resolve merge conflicts
-ghj
+g
 _Learn why conflicts happen and how to resolve them.
 </header>
  
