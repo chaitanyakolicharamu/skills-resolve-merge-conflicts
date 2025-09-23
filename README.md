@@ -19,7 +19,7 @@ _Learn why conflicts happen and how to resolve them.
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
-xgd
+x
 ## Step 2: Resolve a merge conflict
 
 _Good start! Now let's look deeper at a merge conflict! :mag:
