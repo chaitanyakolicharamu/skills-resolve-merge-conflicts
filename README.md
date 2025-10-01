@@ -12,8 +12,6 @@
 
 _Learn why conflicts happen and how to resolve them.
 </header>
-
- egrgrg
 < 
 -
   <<< Author notes: Step 2 >
