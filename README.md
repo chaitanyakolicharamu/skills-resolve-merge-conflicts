@@ -8,7 +8,6 @@
 -->
 
 # Resolve merge conflicts
-ugjhj
 
 _Learn why conflicts happen and how to resolve them.
 </header>
