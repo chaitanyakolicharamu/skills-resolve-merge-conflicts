@@ -17,7 +17,7 @@ _Learn why conflicts happen and how to resolve them.
   Define terms and link to docs.github.com.
 -->
 
-## Step 2: Resolve a merge conflictcvdfbdb
+## Step 2: Resolve a merge conflictcvd
 
 _Good start! Now let's look deeper at a merge conflict! :mag:
 
